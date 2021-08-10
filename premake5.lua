@@ -69,8 +69,7 @@ project "lua"
 		"lvm.c",
 		"lvm.h",
 		"lzio.c",
-		"lzio.h",
-		"onelua.c"
+		"lzio.h"
 	}
 
 	includedirs

@@ -184,7 +184,6 @@
     <ClCompile Include="lutf8lib.c" />
     <ClCompile Include="lvm.c" />
     <ClCompile Include="lzio.c" />
-    <ClCompile Include="onelua.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
